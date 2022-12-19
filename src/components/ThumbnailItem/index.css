@@ -1,0 +1,22 @@
+/* Write your code here. */
+.button {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+}
+.list-el {
+  list-style-type: none;
+  padding-left: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.active {
+  opacity: 1;
+}
+
+.normal {
+  opacity: 0.5;
+}
